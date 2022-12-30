@@ -4,3 +4,4 @@ Showing proficiency in Python with projects
 
 1. First Capstone Project with Hyperiondev - Financial Calculator in Python
 2. Simple Task manager program with user login. Done at Hyperiondev
+3. OOP in Python - email program checking Inbox for emails
